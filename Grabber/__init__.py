@@ -17,13 +17,13 @@ logging.getLogger("pyrate_limiter").setLevel(logging.ERROR)
 LOGGER = logging.getLogger(__name__)
 
 OWNER_ID = 6379841493
-sudo_users = ["6053689459", "5316914263"]
+sudo_users = ["6053689459", "6379841493"]
 GROUP_ID = -1001999912328
 TOKEN = "6811173408:AAG82qRQnhMLWbvpjf2ylRvhwoBce0p4OsE"
 mongo_url = "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/da13bb5af3dff2a227446.jpg", "https://telegra.ph/file/0adf1124349534495e422.jpg"]
 SUPPORT_CHAT = "XTM_CHATS"
-UPDATE_CHAT = "XTM_CHATS"
+UPDATE_CHAT = "XTM_GIVEAWAY"
 BOT_USERNAME = "XTM_waifus_bot"
 CHARA_CHANNEL_ID = -1001980576874
 api_id = 23961967
